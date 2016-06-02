@@ -1,4 +1,5 @@
-public class FlyingThread implements Runnable {
+public class FlyingThread implements Runnable 
+{
 	private FlyingObjects flyer;
 	public FlyingThread(FlyingObjects flyer) {
 		this.flyer = flyer;
